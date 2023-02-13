@@ -12,10 +12,10 @@ for (i = 1; i <= 43; i++) {
 }
 
 let shoeImg = [
-  "../bln_img/blueshoe.png",
-  "../bln_img/redshoe.png",
-  "../bln_img/orangeshoe.png",
-  "../bln_img/greenshoe.png",
+  "./bln_img/blueshoe.png",
+  "./bln_img/redshoe.png",
+  "./bln_img/orangeshoe.png",
+  "./bln_img/greenshoe.png",
 ];
 
 btn.forEach((item, i) => {
